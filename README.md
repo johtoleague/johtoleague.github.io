@@ -13,7 +13,7 @@ who want to start building their personal website on [GitHub Pages](https://page
 The default layout of **hello** is a streamlined single page with three major customizable sections: a required "about" section, an optional portfolio, and an optional CTA. Using [Liquid](https://shopify.github.io/liquid/) variables declared by in the config and index files, **hello** offers an easy-to-use design where all customizations necessary for a basic personal website can be written in [Markdown](https://www.markdownguide.org/basic-syntax/). **hello** is adapted from [Twenty](https://html5up.net/twenty), a responsive, mobile-friendly theme by HTML5 Up.  
 
 
-Demo **hello** [here](https://saragong.github.io/hello/).
+Demo **hello** [here](https://johtoleague.github.io/hello/).
 
 ## Getting started
 To use **hello**, follow these steps:
@@ -79,8 +79,7 @@ By declaring these variables, you can include a CTA section.
 * `cta_button` (a link to an external website or to media)
 * `cta_button_label` (the label on the button)
 
-## Additional Information
-Created by [Sara Gong](https://saragong.github.io/), University of Southern California.  
+## Additional Information 
 
 This work is licensed under the MIT License, which lets you use, modify, and publish adaptations of this template free of charge and without restriction, as long as you preserve all copyright notices and licenses.  
 
